@@ -30,4 +30,7 @@ LCD shows real-time status.
 ## Learning Outcome
 Sensor integration, I2C communication,
 and actuator automation.
+## Wiring Diagram
+![Wiring Diagram](wiri![wiring jpeg](https://github.com/user-attachments/assets/3db60424-451b-4f8b-949c-e89a12972bff)
+ng.png)
 
