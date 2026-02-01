@@ -31,6 +31,9 @@ LCD shows real-time status.
 Sensor integration, I2C communication,
 and actuator automation.
 ## Wiring Diagram
-![Wiring Diagram](wiri![wiring jpeg](https://github.com/user-attachments/assets/3db60424-451b-4f8b-949c-e89a12972bff)
-ng.png)
+![Wiring Diagram](wiring.png)![wiring jpeg](https://github.com/user-attachments/assets/3db60424-451b-4f8b-949c-e89a12972bff)
+
+*Note: PIR motion sensor is used in simulation as a substitute
+for the IR obstacle sensor.*
+
 
